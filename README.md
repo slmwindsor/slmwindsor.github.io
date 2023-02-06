@@ -1,3 +1,3 @@
 # slmwindsor.github.io
 
-Hello World
+Hello World (Readme page)
